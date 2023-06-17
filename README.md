@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 my name is Margaret
 
-<!--
-**mwreed1/mwreed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a data science intern at Apple . I am pursuing my master's in data science at Columbia University. My interests include data visualization, data journalism, and tech for good. 
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+- 📍  I am originally from Chapel Hill, NC; I live in NYC 🍎; I am spending the summer in the Bay Area, CA.
+- 🏫  I currently attend Columbia University and graduated from Duke University in 2022.
+- 💻  I have interned previously at Amazon and Lenvovo.
+- 🤓  Always learning!
+- 🌐  Feel free to visit my [website](https://margaret-reed.netlify.app/) to learn more!
+
+
+<br/>
+
+## Reach Out
+
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/margaretreed/) or reach out via email (margaret.reed24@gmail.com).
