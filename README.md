@@ -1,15 +1,15 @@
 ### Hi there 👋 my name is Margaret
 
-I'm currently a data science intern at Apple . I am pursuing my master's in data science at Columbia University. My interests include data visualization, data journalism, and tech for good. 
+I'm an incoming data scientist at Apple . I recently completed my master's in data science at Columbia University. My interests include data visualization, data journalism, and tech for good. 
 
 <br/>
 
 
 ## About Me
 
-- 📍  I am originally from Chapel Hill, NC; I live in NYC 🍎; I am spending the summer in the Bay Area, CA.
-- 🏫  I currently attend Columbia University and graduated from Duke University in 2022.
-- 💻  I have interned previously at Amazon and Lenvovo.
+- 📍  I am originally from Chapel Hill, NC; I live in NYC 🍎.
+- 🏫  I have my MS from Columbia University and my BS from Duke University.
+- 💻  I have interned previously at Amazon, Lenvovo, and Apple.
 - 🤓  Always learning!
 - 🌐  Feel free to visit my [website](https://margaret-reed.netlify.app/) to learn more!
 
